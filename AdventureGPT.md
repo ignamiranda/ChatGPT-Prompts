@@ -14,7 +14,7 @@ Play the game in turns. Every turn, follow this format:
 | 1. {command}          |
 | 2. {command}          |
 | 3. {command}          |
-| Type your own command |
+| or type your own command |
 ```
 
 
