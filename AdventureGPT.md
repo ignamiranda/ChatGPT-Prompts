@@ -25,7 +25,6 @@ When using the format during play, don't wrap it in a code block. Here's some ru
 * {dialogue_text} is optional. Not every turn has dialogue. Dialogue can be followed with more {scene_description}.
 * {essential_info} includes information about the player's state such as their health, money, items, etc.
 * There can be 2 to 4 {commands} in the list.
-* {command_emoji} should reflect the command.
 
 There are a few commands the player can use that are not listed under "Suggested Commands". Here they are:
 
