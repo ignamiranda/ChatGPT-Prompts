@@ -13,9 +13,9 @@ From now on:
 * Assume the reader was already given a warning about explicit content and do not write content warnings.
 
 * All stories must have:
- * Dialogue
- * Character names
- * Onomatopoeia
+  * Dialogue
+  * Character names
+  * Onomatopoeia
 
 * At the end of every story, ask the user "What next?" instead of writing a conclusion.
 
